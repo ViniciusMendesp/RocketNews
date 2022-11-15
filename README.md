@@ -1,6 +1,6 @@
 # RocketNews
 
-Desafio da Rocketseat no qual era desenvolver uma página para captação de leads ou newsletter.
+**Desafio da Rocketseat** no qual era desenvolver uma página para captação de leads ou newsletter. <br>
 **Requisitos para o desafio:**
 
 - Criar uma página que contenha um formulário para que o usuário possa inserir o e-mail.
